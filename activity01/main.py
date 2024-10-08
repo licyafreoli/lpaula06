@@ -1,4 +1,3 @@
-
 meters = float(input("Enter a value in meters: "))
 
 centimeters = meters * 100
